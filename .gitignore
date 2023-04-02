@@ -1,0 +1,6 @@
+.idea
+**/obj
+env
+*.user
+**/bin
+*.swp
